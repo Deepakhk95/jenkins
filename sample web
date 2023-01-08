@@ -1,5 +1,3 @@
-''' 
-mvn3 clean package
-'''
+hi
 
-Deploy '''target/WebApp.war''' on tomcat
+echo "hi all"
